@@ -1,0 +1,178 @@
+<?xml version="1.0" standalone="yes"?>
+<all>
+	<config>
+		<baseurl>http://daddyleagues.com/</baseurl>
+		<league>TSL</league>
+		<cmdprefix>?</cmdprefix>
+		<pslimit>5</pslimit>
+		<charlimit>1000</charlimit>
+	</config>
+	<info>
+		<league>The Test League (TTL)</league>
+		<commish>put commish name here</commish>
+		<rules>put rules link here</rules>
+		<owners>put owners link here</owners>
+		<advance>9/3, 5pm Central</advance>
+		<draft>9/3, 5pm Central</draft>
+		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot</botdev>
+	</info>
+	<img>
+		<scalp>https://symonsez.files.wordpress.com/2009/08/scalp_edited.jpg</scalp>
+		<ring>http://vignette3.wikia.nocookie.net/lotr/images/9/9b/TheOneRing.jpg</ring>
+	</img>
+	<youtube>
+		<signman>https://www.youtube.com/channel/UCzLK6pOdCYmkEWWoEIxOJ2g</signman>
+	</youtube>
+	<custom>
+		<hello>hello world!</hello>
+	</custom>
+	<rings>
+	</rings>
+	<alias>
+		<contact>owners</contact>
+		<adv>advance</adv>
+		<sim>advance</sim>
+		<nostradamus>8ball</nostradamus>
+	</alias>
+	<twitch>
+		<buf>sometwitchname</buf>
+		<mia/>
+		<ne/>
+		<nyj/>
+		
+		<bal/>
+		<cin/>
+		<cle/>
+		<pit/>
+		
+		<hou/>
+		<ind/>
+		<jac/>
+		<ten/>
+		
+		<den/>
+		<kc/>
+		<oak/>
+		<sd/>
+		
+		<dal/>
+		<nyg/>
+		<phi/>
+		<was/>
+		
+		<chi/>
+		<det/>
+		<gb/>
+		<min/>
+		
+		<atl/>
+		<car/>
+		<no/>
+		<tb/>
+		
+		<ari/>
+		<sea/>
+		<sf/>
+		<la/>
+	</twitch>
+	<magic8ball>
+		<reply>It is certain</reply>
+		<reply>It is decidedly so</reply>
+		<reply>Without a doubt</reply>
+		<reply>Yes, definitely</reply>
+		<reply>You may rely on it</reply>
+		<reply>As I see it, yes</reply>
+		<reply>Most likely</reply>
+		<reply>Outlook good</reply>
+		<reply>Yes</reply>
+		<reply>Signs point to yes</reply>
+		<reply>Reply hazy. Try again</reply>
+		<reply>Ask again later</reply>
+		<reply>Better not tell you</reply>
+		<reply>Cannot predict now</reply>
+		<reply>Concentrate and ask again</reply>
+		<reply>Don't count on it</reply>
+		<reply>My reply is no</reply>
+		<reply>My sources say no</reply>
+		<reply>Outlook not so good</reply>
+		<reply>Very doubtful</reply>
+	</magic8ball>
+	<emoji>
+		<wary>https://external-dft4-1.xx.fbcdn.net/safe_image.php?d=AQBrs2kQWoDr4JeY&amp;url=http%3A%2F%2Fprofile.ak.fbcdn.net%2Fhprofile-ak-snc4%2F373572_309448622428615_1815569583_q.jpg</wary>
+		<shifty>https://external-dft4-1.xx.fbcdn.net/safe_image.php?d=AQBAeZJ1rZ9SR6W5&amp;url=http%3A%2F%2Fprofile.ak.fbcdn.net%2Fhprofile-ak-snc4%2F50470_409615409069016_654384652_q.jpg</shifty>
+		<good>https://external-dft4-1.xx.fbcdn.net/safe_image.php?d=AQCrhof2PXSJOC1u&amp;url=http%3A%2F%2Fprofile.ak.fbcdn.net%2Fhprofile-ak-ash2%2F373765_303205376421858_1391735657_q.jpg</good>
+		<bad>https://external-dft4-1.xx.fbcdn.net/safe_image.php?d=AQABuxtoHR4RJ_qw&amp;url=http%3A%2F%2Fprofile.ak.fbcdn.net%2Fhprofile-ak-ash2%2F592274_132458846877892_2080509790_q.jpg</bad>
+		<mad>https://external-dft4-1.xx.fbcdn.net/safe_image.php?d=AQD6L8b0xZXHRDLb&amp;url=http%3A%2F%2Fprofile.ak.fbcdn.net%2Fhprofile-ak-snc4%2F261093_216175535131352_1274887729_q.jpg</mad>
+		<hmm>https://external-dft4-1.xx.fbcdn.net/safe_image.php?d=AQD6L8b0xZXHRDLb&amp;url=http%3A%2F%2Fprofile.ak.fbcdn.net%2Fhprofile-ak-snc4%2F261093_216175535131352_1274887729_q.jpg</hmm>
+		<wink>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/wink_80_anim_gif.gif?width=40&amp;height=40</wink>
+		<cry>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/crying_80_anim_gif.gif?width=40&amp;height=40</cry>
+		<cool>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/cool_80_anim_gif.gif?width=40&amp;height=40</cool>
+		<facepalm>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/facepalm_80_anim_gif.gif?width=40&amp;height=40</facepalm>
+		<yawn>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/yawning_80_anim_gif.gif?width=40&amp;height=40</yawn>
+		<wasntme>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/itwasntme_80_anim_gif.gif?width=40&amp;height=40</wasntme>
+		<waiting>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/waiting_80_anim_gif.gif?width=40&amp;height=40</waiting>
+		<blush>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/blushing_80_anim_gif.gif?width=40&amp;height=40</blush>
+		<kiss>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/kiss_80_anim_gif.gif?width=40&amp;height=40</kiss>
+		<sweat>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/sweating_80_anim_gif.gif?width=40&amp;height=40</sweat>
+		<cd>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/headphones_40_anim_gif.gif</cd>
+		<smile>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/smile_80_anim_gif.gif?width=40&amp;height=40</smile>
+		<hungover>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/hungover_40_anim_gif.gif</hungover>
+		<sad>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/sadsmile_80_anim_gif.gif</sad>
+		<laugh>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/bigsmile_80_anim_gif.gif?width=40&amp;height=40</laugh>
+		<cold>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/shivering_40_anim_gif.gif</cold>
+		<shock>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/shock_40_anim_gif.gif</shock>
+		<listening>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/listening_40_anim_gif.gif</listening>
+		<speechless>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/speechless_80_anim_gif.gif?width=40&amp;height=40</speechless>
+		<wonder>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/wondering_80_anim_gif.gif?width=40&amp;height=40</wonder>
+		<sleepy>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/sleepy_80_anim_gif.gif?width=40&amp;height=40</sleepy>
+		<eyeroll>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/dull_80_anim_gif.gif?width=40&amp;height=40</eyeroll>
+		<inlove>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/inlove_80_anim_gif.gif?width=40&amp;height=40</inlove>
+		<doh>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/doh_80_anim_gif.gif?width=40&amp;height=40</doh>
+		<angry>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/angry_80_anim_gif.gif?width=40&amp;height=40</angry>
+		<party>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/party_80_anim_gif.gif?width=40&amp;height=40</party>
+		<worried>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/worried_80_anim_gif.gif?width=40&amp;height=40</worried>
+		<mmm>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/mmm_80_anim_gif.gif?width=40&amp;height=40</mmm>
+		<nerd>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/nerd_80_anim_gif.gif?width=40&amp;height=40</nerd>
+		<sealed>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/lipssealed_80_anim_gif.gif?width=40&amp;height=40</sealed>
+		<hi>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/hi_80_anim_gif.gif?width=40&amp;height=40</hi>
+		<devil>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/devil_80_anim_gif.gif</devil>
+		<angel>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/angel_80_anim_gif.gif?width=40&amp;height=40</angel>
+		<envy>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/envy_80_anim_gif.gif?width=40&amp;height=40</envy>
+		<wait>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/wait_80_anim_gif.gif?width=40&amp;height=40</wait>
+		<makeup>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/makeup_80_anim_gif.gif?width=40&amp;height=40</makeup>
+		<moustache>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/movember_80_anim_gif.gif?width=40&amp;height=40</moustache>
+		<giggle>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/giggle_80_anim_gif.gif?width=40&amp;height=40</giggle>
+		<clap>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/clapping_80_anim_gif.gif?width=40&amp;height=40</clap>
+		<think>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/thinking_80_anim_gif.gif?width=40&amp;height=40</think>
+		<rofl>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/rofl_80_anim_gif.gif?width=40&amp;height=40</rofl>
+		<whew>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/whew_80_anim_gif.gif?width=40&amp;height=40</whew>
+		<high5>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/highfive_80_anim_gif.gif?width=40&amp;height=40</high5>
+		<happy>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/happy_80_anim_gif.gif?width=40&amp;height=40</happy>
+		<smirk>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/smirk_80_anim_gif.gif?width=40&amp;height=40</smirk>
+		<nod>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/nod_80_anim_gif.gif?width=40&amp;height=40</nod>
+		<shake>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/shake_80_anim_gif.gif?width=40&amp;height=40</shake>
+		<waiting>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/waiting_80_anim_gif.gif?width=40&amp;height=40</waiting>
+		<emo>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/emo_80_anim_gif.gif?width=40&amp;height=40</emo>
+		<lalala>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/lalala_80_anim_gif.gif?width=40&amp;height=40</lalala>
+		<tmi>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/tmi_80_anim_gif.gif?width=40&amp;height=40</tmi>
+		<bandit>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/bandit_80_anim_gif.gif?width=40&amp;height=40</bandit>
+		<rock>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/rock_80_anim_gif.gif?width=40&amp;height=40</rock>
+		<banghead>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/headbang_80_anim_gif.gif?width=40&amp;height=40</banghead>
+		<punch>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/punch_80_anim_gif.gif?width=40&amp;height=40</punch>
+		<talk>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/talking_80_anim_gif.gif?width=40&amp;height=40</talk>
+		<idea>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/idea_80_anim_gif.gif</idea>
+		<talktothehand>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/talktothehand_80_anim_gif.gif</talktothehand>
+		<call>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/call_80_anim_gif.gif?width=40&amp;height=40</call>
+		<cwl>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/cryingwhilelaughing_anim.gif</cwl>
+		<wtf>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/wtf_anim.gif</wtf>
+		<donttalk>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/donttalktome_anim.gif</donttalk>
+		<nazar>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/nazar_anim.gif</nazar>
+		<slap>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/slap_anim.gif</slap>
+		<whistle>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/whistle_anim.gif</whistle>
+		<turkey>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/turkey_40_anim_gif.gif</turkey>
+		<santa>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/santa_40_anim_gif.gif</santa>
+		<penguin>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/penguin_40_anim_gif.gif</penguin>
+		<key>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/key_40_anim_gif.gif</key>
+		<ninja>https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/screenshots/fa12330/emoticons/ninja_80_anim_gif.gif?width=40&amp;amp;height=40</ninja>
+	</emoji>
+</all>
